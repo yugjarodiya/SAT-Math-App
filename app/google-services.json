@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392962189580",
+    "firebase_url": "https://yugappforsatmathprep.firebaseio.com",
+    "project_id": "yugappforsatmathprep",
+    "storage_bucket": "yugappforsatmathprep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392962189580:android:6f851a71d2941e19c38129",
+        "android_client_info": {
+          "package_name": "com.yourdomain.yugappforsatmathprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392962189580-ct5802csnb4bfvkk9qo55tbdfpggp0rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yourdomain.yugappforsatmathprep",
+            "certificate_hash": "82d5270989c8f2dcda2c67809572877c448b4435"
+          }
+        },
+        {
+          "client_id": "392962189580-9eh2k7bvei5r7c1puichbs31r1kghud7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh32MEud3DUBRg0h1f6l5yMw_70uWejw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392962189580-9eh2k7bvei5r7c1puichbs31r1kghud7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
